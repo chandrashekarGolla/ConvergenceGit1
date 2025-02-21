@@ -1,1 +1,1 @@
-feature3 linei want to see conflict
+feature3conflict  linei want to see conflict
