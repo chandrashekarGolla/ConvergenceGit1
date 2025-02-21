@@ -1,1 +1,2 @@
-working with branch feature1
+working with branchtrying merge conflict
+
