@@ -1,1 +1,1 @@
-first git command git init
+i changed the text in  fil1 in remote repos
